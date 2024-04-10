@@ -8,7 +8,6 @@ export default {
         layout: 'centered',
     },
     tags: ['autodocs'],
-    args: { onClick: fn() },
 };
 
 export const Default = {
