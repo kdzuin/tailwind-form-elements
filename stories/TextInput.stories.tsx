@@ -8,9 +8,6 @@ export default {
         layout: 'centered',
     },
     tags: ['autodocs'],
-    // argTypes: {
-    //     label: { control: 'text' },
-    // },
     args: { onClick: fn() },
 };
 
